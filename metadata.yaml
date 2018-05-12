@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1871
     wikipedia: http://en.wikipedia.org/wiki/Leonid_Andreyev
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13147#Savva-and-the-Life-of-Man--Two-plays-by-Leonid-Andreyev
 gutenberg_issued: '2004-08-09'
 gutenberg_type: Text
 identifiers:
